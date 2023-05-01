@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn 
+plotly
+nltk
+spacy
+tweepy
+transformers
+requests
+beautifulsoup4
+gensim
