@@ -1,1 +1,2 @@
-# twitterSentimentAnalysis
+# Twitter Sentiment Analysis
+This project aims to perform Natural Language Processing (NLP) on a corpus of tweets that are labeled as positive, neutral, or negative. To preprocess the data, a series of steps such as lowercasing, punctuation removal, and stemming are performed to standardize the text. Word2Vec is then employed to analyze the data and identify relationships between the words in the corpus by representing each word as a vector. Furthermore, the CountVectorizer method is utilized to convert the text data into a matrix of token counts, which enables further analysis. Finally, a Random Forest Classifier is implemented to classify the data based on the features extracted through the vectorization process.
